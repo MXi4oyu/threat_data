@@ -2,7 +2,7 @@
 
 For more information, please see the following blog post- https://morris.guru/the-life-and-death-of-animus/
 
-Thank you,
+Thank you,  
 --Andrew
 
 # Animus Threat Data Repository

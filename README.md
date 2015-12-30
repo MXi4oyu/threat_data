@@ -1,3 +1,10 @@
+# ANIMUS HAS BEEN DISCONTINUED
+
+For more information, please see the following blog post- https://morris.guru/the-life-and-death-of-animus/
+
+Thank you,
+--Andrew
+
 # Animus Threat Data Repository
 ## Summary
 
